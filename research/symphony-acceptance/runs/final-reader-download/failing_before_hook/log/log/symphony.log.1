@@ -1,0 +1,23 @@
+2026-10-07T20:13:51.039218+00:00 info: Running SymphonyElixirWeb.Endpoint with Bandit 1.10.3 at 127.0.0.1:42025 (http)
+2026-10-07T20:13:51.043691+00:00 info: Access SymphonyElixirWeb.Endpoint at http://127.0.0.1:42025
+2026-10-07T20:13:51.044697+00:00 info: Dispatching issue to agent: issue_id=probe-1 issue_identifier=PROBE-1 pid=#PID<0.517.0> attempt=nil worker_host=local
+2026-10-07T20:13:51.045332+00:00 info: Starting agent run for issue_id=probe-1 issue_identifier=PROBE-1 worker_host=local
+2026-10-07T20:13:51.045414+00:00 info: Starting worker attempt for issue_id=probe-1 issue_identifier=PROBE-1 worker_host=local
+2026-10-07T20:13:51.053344+00:00 info: Running workspace hook hook=after_create issue_id=probe-1 issue_identifier=PROBE-1 workspace=/tmp/symphony-final-reader.RBZ8lt/bundle with spaces/research/symphony-acceptance/runs/probe-20261007T201339.791981Z/failing_before_hook/workspaces/PROBE-1 worker_host=local
+2026-10-07T20:13:51.063815+00:00 info: Running workspace hook hook=before_run issue_id=probe-1 issue_identifier=PROBE-1 workspace=/tmp/symphony-final-reader.RBZ8lt/bundle with spaces/research/symphony-acceptance/runs/probe-20261007T201339.791981Z/failing_before_hook/workspaces/PROBE-1 worker_host=local
+2026-10-07T20:13:51.074874+00:00 warning: Workspace hook failed hook=before_run issue_id=probe-1 issue_identifier=PROBE-1 workspace=/tmp/symphony-final-reader.RBZ8lt/bundle with spaces/research/symphony-acceptance/runs/probe-20261007T201339.791981Z/failing_before_hook/workspaces/PROBE-1 status=1 output=""
+2026-10-07T20:13:51.077231+00:00 error: Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:workspace_hook_failed, "before_run", 1, ""}
+2026-10-07T20:13:51.078217+00:00 error: Task #PID<0.517.0> started from SymphonyElixir.Orchestrator terminating, ** (RuntimeError) Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:workspace_hook_failed, "before_run", 1, ""}, (symphony_elixir 0.0.3) lib/symphony_elixir/agent_runner.ex:34: SymphonyElixir.AgentRunner.run/3, (elixir 1.19.5) lib/task/supervised.ex:105: Task.Supervised.invoke_mfa/2, Function: #Function<29.34712223/0 in SymphonyElixir.Orchestrator.spawn_issue_on_worker_host/5>, Args: []
+2026-10-07T20:13:51.087159+00:00 warning: Agent task exited for issue_id=probe-1 session_id=n/a reason={%RuntimeError{message: "Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:workspace_hook_failed, \"before_run\", 1, \"\"}"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c"lib/symphony_elixir/agent_runner.ex", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c"lib/task/supervised.ex", line: 105]}]}; scheduling retry
+2026-10-07T20:13:51.088433+00:00 warning: Retrying issue_id=probe-1 issue_identifier=PROBE-1 in 10000ms (attempt 1) error=agent exited: {%RuntimeError{message: "Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:workspace_hook_failed, \"before_run\", 1, \"\"}"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c"lib/symphony_elixir/agent_runner.ex", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c"lib/task/supervised.ex", line: 105]}]}
+2026-10-07T20:13:51.088693+00:00 info: Agent task finished for issue_id=probe-1 session_id=n/a reason={%RuntimeError{message: "Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:workspace_hook_failed, \"before_run\", 1, \"\"}"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c"lib/symphony_elixir/agent_runner.ex", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c"lib/task/supervised.ex", line: 105]}]}
+2026-10-07T20:13:51.183680+00:00 info: GET /api/v1/state
+2026-10-07T20:13:51.206346+00:00 debug: Processing with SymphonyElixirWeb.ObservabilityApiController.state/2, Parameters: %{}, Pipelines: []
+2026-10-07T20:13:51.216589+00:00 info: Sent 200 in 32ms
+2026-10-07T20:13:51.369878+00:00 info: GET /api/v1/state
+2026-10-07T20:13:51.370373+00:00 debug: Processing with SymphonyElixirWeb.ObservabilityApiController.state/2, Parameters: %{}, Pipelines: []
+2026-10-07T20:13:51.371082+00:00 info: Sent 200 in 1ms
+2026-10-07T20:13:51.524613+00:00 info: GET /api/v1/state
+2026-10-07T20:13:51.524842+00:00 debug: Processing with SymphonyElixirWeb.ObservabilityApiController.state/2, Parameters: %{}, Pipelines: []
+2026-10-07T20:13:51.525409+00:00 info: Sent 200 in 797µs
+2026-10-07T20:13:51.531880+00:00 notice: SIGTERM received - shutting down
