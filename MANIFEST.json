@@ -2,7 +2,7 @@
   ".gitignore": "003c2831ab16c64c90d427a7df3313a114c89402dbebe2caa23eb006978360b4",
   "LICENSE": "fcc9b56e2ff9ed48c92a3b9f6196008b336ada52615e86a2137f5b58705ed610",
   "NOTICE": "66543f9e25dc40c9b4b8e5017dbcef1ac126fc38fa248f24f0ea5d0104ba3da0",
-  "README.md": "c98d08b31675432c8b3d5bf7b01e0d39fd927c3b79caf9b5b4c4b75d67e2d656",
+  "README.md": "4892060b6e6a27ef22327434895c2ad87c9dddfb5817dbfa4bfdd6fe904fe6f6",
   "research/symphony-acceptance/fake_agent.py": "8569ca523e30a5173feb627bd3b7bf0823887cb6e92b52a74f36e3572ff7df08",
   "research/symphony-acceptance/probe.py": "93c998445af25281cd7edfc34e06ca7d88d4f3d0312b8bd18563c61eebcaedcf",
   "research/symphony-acceptance/reproduce.sh": "94a0d3f0f2cf3b11a925de69f650370bccdf40a5e2e52767104d52691b96f3cf",
