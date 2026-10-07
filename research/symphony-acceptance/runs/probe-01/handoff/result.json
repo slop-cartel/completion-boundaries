@@ -1,0 +1,16 @@
+{
+  "case": "handoff",
+  "tracker_state": "Human Review",
+  "turns_started": 1,
+  "elapsed_s": 1.597,
+  "final_counts": {
+    "blocked": 0,
+    "running": 0,
+    "retrying": 0
+  },
+  "workspace_retained": true,
+  "sentinel": "workspace-created\n",
+  "verification": null,
+  "model_calls": 0,
+  "quality_benchmark": false
+}

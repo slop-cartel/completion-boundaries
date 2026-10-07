@@ -1,0 +1,79 @@
+[H[2J[1m╭─ SYMPHONY STATUS[0m
+[1m│ Agents: [0m[32m1[0m[90m/[0m[90m1[0m
+[1m│ Throughput: [0m[36m0 tps[0m
+[1m│ Runtime: [0m[35m0m 0s[0m
+[1m│ Tokens: [0m[33min 0[0m[90m | [0m[33mout 0[0m[90m | [0m[33mtotal 0[0m
+[1m│ Rate Limits: [0m[90munavailable[0m
+[1m│ Project: [0m[36mhttps://linear.app/project/probe/issues[0m
+[1m│ Dashboard: [0m[36mhttp://127.0.0.1:45421/[0m
+[1m│ Next refresh: [0m[36m1s[0m
+[1m├─ Running[0m
+│
+│   [90mID       STAGE          PID      AGE / TURN   TOKENS     SESSION        EVENT                                       [0m
+│   [90m────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[0m
+│ [34m●[0m [36mPROBE-1 [0m [34mTodo          [0m [33mn/a     [0m [35m0m 0s       [0m [33m         0[0m [36mn/a           [0m [34mno codex message yet                        [0m
+│
+[1m├─ Backoff queue[0m
+│
+│  [90mNo queued retries[0m
+╰─
+[H[2J[1m╭─ SYMPHONY STATUS[0m
+[1m│ Agents: [0m[32m0[0m[90m/[0m[90m1[0m
+[1m│ Throughput: [0m[36m0 tps[0m
+[1m│ Runtime: [0m[35m0m 0s[0m
+[1m│ Tokens: [0m[33min 0[0m[90m | [0m[33mout 0[0m[90m | [0m[33mtotal 0[0m
+[1m│ Rate Limits: [0m[90munavailable[0m
+[1m│ Project: [0m[36mhttps://linear.app/project/probe/issues[0m
+[1m│ Dashboard: [0m[36mhttp://127.0.0.1:45421/[0m
+[1m│ Next refresh: [0m[36m1s[0m
+[1m├─ Running[0m
+│
+│   [90mID       STAGE          PID      AGE / TURN   TOKENS     SESSION        EVENT                                       [0m
+│   [90m────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[0m
+│  [90mNo active agents[0m
+│
+[1m├─ Backoff queue[0m
+│
+│  [33m↻[0m [31mPROBE-1[0m [33mattempt=1[0m[2m in [0m[36m9.999s[0m [2merror=agent exited: {%RuntimeError{message: "Agent run failed for issue_id=probe-1 issue_identifier=PR...[0m
+╰─
+[H[2J[1m╭─ SYMPHONY STATUS[0m
+[1m│ Agents: [0m[32m0[0m[90m/[0m[90m1[0m
+[1m│ Throughput: [0m[36m0 tps[0m
+[1m│ Runtime: [0m[35m0m 0s[0m
+[1m│ Tokens: [0m[33min 0[0m[90m | [0m[33mout 0[0m[90m | [0m[33mtotal 0[0m
+[1m│ Rate Limits: [0m[90munavailable[0m
+[1m│ Project: [0m[36mhttps://linear.app/project/probe/issues[0m
+[1m│ Dashboard: [0m[36mhttp://127.0.0.1:45421/[0m
+[1m│ Next refresh: [0m[36mchecking now…[0m
+[1m├─ Running[0m
+│
+│   [90mID       STAGE          PID      AGE / TURN   TOKENS     SESSION        EVENT                                       [0m
+│   [90m────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[0m
+│  [90mNo active agents[0m
+│
+[1m├─ Backoff queue[0m
+│
+│  [33m↻[0m [31mPROBE-1[0m [33mattempt=1[0m[2m in [0m[36m9.951s[0m [2merror=agent exited: {%RuntimeError{message: "Agent run failed for issue_id=probe-1 issue_identifier=PR...[0m
+╰─
+[H[2J[1m╭─ SYMPHONY STATUS[0m
+[1m│ Agents: [0m[32m0[0m[90m/[0m[90m1[0m
+[1m│ Throughput: [0m[36m0 tps[0m
+[1m│ Runtime: [0m[35m0m 0s[0m
+[1m│ Tokens: [0m[33min 0[0m[90m | [0m[33mout 0[0m[90m | [0m[33mtotal 0[0m
+[1m│ Rate Limits: [0m[90munavailable[0m
+[1m│ Project: [0m[36mhttps://linear.app/project/probe/issues[0m
+[1m│ Dashboard: [0m[36mhttp://127.0.0.1:45421/[0m
+[1m│ Next refresh: [0m[36m1s[0m
+[1m├─ Running[0m
+│
+│   [90mID       STAGE          PID      AGE / TURN   TOKENS     SESSION        EVENT                                       [0m
+│   [90m────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[0m
+│  [90mNo active agents[0m
+│
+[1m├─ Backoff queue[0m
+│
+│  [33m↻[0m [31mPROBE-1[0m [33mattempt=1[0m[2m in [0m[36m9.926s[0m [2merror=agent exited: {%RuntimeError{message: "Agent run failed for issue_id=probe-1 issue_identifier=PR...[0m
+╰─
+[H[2J[1m╭─ SYMPHONY STATUS[0m
+[31m│ app_status=offline[0m
+╰─

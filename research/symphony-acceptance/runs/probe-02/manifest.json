@@ -1,0 +1,71 @@
+{
+  "started_at": "2026-10-07T19:58:43.245451+00:00",
+  "binary_path": "/srv/exo1007/slopcartel-live/company/runtime/.exocorp/runtime-host/runner-state/workspaces/workspace/company-9267343a762b0d1643c6e82a1458124ec46e0d3f4f7236e783b8b87f83e12277/workspace-91e7020030e812078ad10dea07c628d9e13555f4e2bda1a73e5e4d05fc7f6b57/research/_sandbox/bin/symphony-v0.0.3-linux_x86_64",
+  "binary_sha256": "ea35a04a54a6d37c0cafe3f195da871e47614a8c05765b90dbb4cac32e1435ee",
+  "case_results": [
+    {
+      "case": "active",
+      "tracker_state": "Todo",
+      "turns_started": 2,
+      "elapsed_s": 1.874,
+      "final_counts": {
+        "blocked": 0,
+        "running": 0,
+        "retrying": 1
+      },
+      "workspace_retained": true,
+      "sentinel": "workspace-created\n",
+      "verification": null,
+      "model_calls": 0,
+      "quality_benchmark": false
+    },
+    {
+      "case": "handoff",
+      "tracker_state": "Human Review",
+      "turns_started": 1,
+      "elapsed_s": 1.583,
+      "final_counts": {
+        "blocked": 0,
+        "running": 0,
+        "retrying": 0
+      },
+      "workspace_retained": true,
+      "sentinel": "workspace-created\n",
+      "verification": null,
+      "model_calls": 0,
+      "quality_benchmark": false
+    },
+    {
+      "case": "failing_after_hook",
+      "tracker_state": "Human Review",
+      "turns_started": 1,
+      "elapsed_s": 1.57,
+      "final_counts": {
+        "blocked": 0,
+        "running": 0,
+        "retrying": 0
+      },
+      "workspace_retained": true,
+      "sentinel": "workspace-created\n",
+      "verification": "FAIL: injected hook check\n",
+      "model_calls": 0,
+      "quality_benchmark": false
+    },
+    {
+      "case": "failing_before_hook",
+      "tracker_state": "Todo",
+      "turns_started": 0,
+      "elapsed_s": 0.662,
+      "final_counts": {
+        "blocked": 0,
+        "running": 0,
+        "retrying": 1
+      },
+      "workspace_retained": true,
+      "sentinel": "workspace-created\n",
+      "verification": "FAIL: injected hook check\n",
+      "model_calls": 0,
+      "quality_benchmark": false
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+[
+  {
+    "blocked": [],
+    "running": [
+      {
+        "state": "Todo",
+        "tokens": {
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "total_tokens": 0
+        },
+        "started_at": "2026-10-07T20:05:56Z",
+        "last_message": null,
+        "session_id": null,
+        "issue_id": "probe-1",
+        "turn_count": 0,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/symphony-acceptance/runs/fresh-check/failing_before_hook/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "last_event": null,
+        "last_event_at": null
+      }
+    ],
+    "retrying": [],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 1,
+      "retrying": 0
+    },
+    "generated_at": "2026-10-07T20:05:56Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:workspace_hook_failed, \\\"before_run\\\", 1, \\\"\\\"}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/symphony-acceptance/runs/fresh-check/failing_before_hook/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:06:05Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:05:56Z"
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "repository": "https://github.com/openai/symphony",
+  "revision": "1c0fb6c8e8ef9031a2c861e62af5f9e66cee39cb",
+  "tag": "v0.0.3",
+  "files": {
+    "LICENSE": {
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "url": "https://github.com/openai/symphony/blob/1c0fb6c8e8ef9031a2c861e62af5f9e66cee39cb/LICENSE"
+    },
+    "README.md": {
+      "sha256": "b47702596a9f5d69878d6541d444358a7576ae9a462993f941056d0ca80e79dd",
+      "url": "https://github.com/openai/symphony/blob/1c0fb6c8e8ef9031a2c861e62af5f9e66cee39cb/README.md"
+    },
+    "SPEC.md": {
+      "sha256": "c6638056502ecd2e60eb04e1f1a627a4964506fcdf4d39873e78aa5834de85d5",
+      "url": "https://github.com/openai/symphony/blob/1c0fb6c8e8ef9031a2c861e62af5f9e66cee39cb/SPEC.md"
+    },
+    "elixir/README.md": {
+      "sha256": "6a630f2effe2b6efac1dbd8a4844f7e9399e3ec697665e41a1019a89aae81050",
+      "url": "https://github.com/openai/symphony/blob/1c0fb6c8e8ef9031a2c861e62af5f9e66cee39cb/elixir/README.md"
+    },
+    "elixir/lib/symphony_elixir/agent_runner.ex": {
+      "sha256": "4b4ab877427c76e5778034c7c89a41e9ec884fb1b142f3c6754550f3ba25be39",
+      "url": "https://github.com/openai/symphony/blob/1c0fb6c8e8ef9031a2c861e62af5f9e66cee39cb/elixir/lib/symphony_elixir/agent_runner.ex"
+    },
+    "elixir/lib/symphony_elixir/orchestrator.ex": {
+      "sha256": "ffa6fd2ca66f775b93ca561adb60a61a416f8fb604ff247128d3638169fdab22",
+      "url": "https://github.com/openai/symphony/blob/1c0fb6c8e8ef9031a2c861e62af5f9e66cee39cb/elixir/lib/symphony_elixir/orchestrator.ex"
+    },
+    "elixir/lib/symphony_elixir/workspace.ex": {
+      "sha256": "b72132293f572fa0c7caa38adda941452072e8639f2c39b4c8a569d69084c6e5",
+      "url": "https://github.com/openai/symphony/blob/1c0fb6c8e8ef9031a2c861e62af5f9e66cee39cb/elixir/lib/symphony_elixir/workspace.ex"
+    },
+    "NOTICE": {
+      "sha256": "38c76eb8701e52953f63154a77b407667a6ee34c3a2a8785c8f8b2cd5494d09d",
+      "url": "https://github.com/openai/symphony/blob/1c0fb6c8e8ef9031a2c861e62af5f9e66cee39cb/NOTICE"
+    }
+  }
+}

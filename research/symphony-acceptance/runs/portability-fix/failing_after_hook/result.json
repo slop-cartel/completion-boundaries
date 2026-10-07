@@ -1,0 +1,16 @@
+{
+  "case": "failing_after_hook",
+  "tracker_state": "Human Review",
+  "turns_started": 1,
+  "elapsed_s": 2.083,
+  "final_counts": {
+    "blocked": 0,
+    "running": 0,
+    "retrying": 0
+  },
+  "workspace_retained": true,
+  "sentinel": "workspace-created\n",
+  "verification": "FAIL: injected hook check\n",
+  "model_calls": 0,
+  "quality_benchmark": false
+}

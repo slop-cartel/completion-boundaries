@@ -1,0 +1,3279 @@
+[
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:17Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:08Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:17Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:08Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:17Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:08Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:09Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:09Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:09Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:09Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:17Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:09Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:17Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:09Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:17Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:09Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:10Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:10Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:10Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:17Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:10Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:17Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:10Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:17Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:10Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:11Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:11Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:11Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:11Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:17Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:11Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:17Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:11Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:17Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:11Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:12Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:12Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:12Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:17Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:12Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:17Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:12Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:17Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:12Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:13Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:13Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:13Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:13Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:17Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:13Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:17Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:13Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:17Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:13Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:14Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:14Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:14Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:17Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:14Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:17Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:14Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:17Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:14Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:15Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:15Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:15Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:15Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:17Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:15Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:17Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:15Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:17Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:15Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:16Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:16Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:16Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:17Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:16Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:17Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:16Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:17Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:16Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:17Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:17Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:17Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:17Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:17Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:17Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:17Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:17Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:17Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:17Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:18Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:18Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:18Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:18Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:37Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:18Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:37Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:18Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:37Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:18Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:38Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:19Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:38Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:19Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:38Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:19Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:38Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:19Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:37Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:19Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:37Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:19Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:37Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:19Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:38Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:20Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:38Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:20Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:38Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:20Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:37Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:20Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:37Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:20Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:37Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:20Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:38Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:21Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:38Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:21Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:38Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:21Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:38Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:21Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:37Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:21Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:37Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:21Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:37Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:21Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:38Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:22Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:38Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:22Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:38Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:22Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:37Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:22Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:37Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:22Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:37Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:22Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:38Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:23Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:38Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:23Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:38Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:23Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:38Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:23Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:37Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:23Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:37Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:23Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:37Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:23Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:38Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:24Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:38Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:24Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:38Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:24Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:37Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:24Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:37Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:24Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:37Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:24Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:38Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:25Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:38Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:25Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:38Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:25Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:38Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:25Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:37Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:25Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": "agent exited: {%RuntimeError{message: \"Agent run failed for issue_id=probe-1 issue_identifier=PROBE-1: {:port_exit, 2}\"}, [{SymphonyElixir.AgentRunner, :run, 3, [file: ~c\"lib/symphony_elixir/agent_runner.ex\", line: 34]}, {Task.Supervised, :invoke_mfa, 2, [file: ~c\"lib/task/supervised.ex\", line: 105]}]}",
+        "issue_id": "probe-1",
+        "attempt": 2,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/bundle with spaces/symphony-acceptance/runs/fresh-check/active/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:07:37Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:07:25Z"
+  }
+]

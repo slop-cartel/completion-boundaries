@@ -1,0 +1,232 @@
+[
+  {
+    "blocked": [],
+    "running": [
+      {
+        "state": "Todo",
+        "tokens": {
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "total_tokens": 0
+        },
+        "started_at": "2026-10-07T20:05:50Z",
+        "last_message": null,
+        "session_id": null,
+        "issue_id": "probe-1",
+        "turn_count": 0,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/symphony-acceptance/runs/fresh-check/handoff/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "last_event": null,
+        "last_event_at": null
+      }
+    ],
+    "retrying": [],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 1,
+      "retrying": 0
+    },
+    "generated_at": "2026-10-07T20:05:50Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": null,
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/symphony-acceptance/runs/fresh-check/handoff/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:05:50Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:05:50Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": null,
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/symphony-acceptance/runs/fresh-check/handoff/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:05:50Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:05:50Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": null,
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/symphony-acceptance/runs/fresh-check/handoff/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:05:50Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:05:50Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": null,
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/symphony-acceptance/runs/fresh-check/handoff/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:05:50Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:05:50Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": null,
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/symphony-acceptance/runs/fresh-check/handoff/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:05:51Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:05:51Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [
+      {
+        "error": null,
+        "issue_id": "probe-1",
+        "attempt": 1,
+        "worker_host": null,
+        "workspace_path": "/tmp/symphony-fresh-reader.KEldLq/symphony-acceptance/runs/fresh-check/handoff/workspaces/PROBE-1",
+        "issue_url": "https://example.invalid/PROBE-1",
+        "issue_identifier": "PROBE-1",
+        "due_at": "2026-10-07T20:05:51Z"
+      }
+    ],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 1
+    },
+    "generated_at": "2026-10-07T20:05:51Z"
+  },
+  {
+    "blocked": [],
+    "running": [],
+    "retrying": [],
+    "codex_totals": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "seconds_running": 0
+    },
+    "rate_limits": null,
+    "counts": {
+      "blocked": 0,
+      "running": 0,
+      "retrying": 0
+    },
+    "generated_at": "2026-10-07T20:05:51Z"
+  }
+]

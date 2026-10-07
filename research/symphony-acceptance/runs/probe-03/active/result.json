@@ -1,0 +1,16 @@
+{
+  "case": "active",
+  "tracker_state": "Todo",
+  "turns_started": 2,
+  "elapsed_s": 1.931,
+  "final_counts": {
+    "blocked": 0,
+    "running": 0,
+    "retrying": 1
+  },
+  "workspace_retained": true,
+  "sentinel": "workspace-created\n",
+  "verification": null,
+  "model_calls": 0,
+  "quality_benchmark": false
+}
